@@ -17,10 +17,6 @@
 - Gmail: emanrafiq46@gmail.com
 - GitHub: [EmanRafique](https://github.com/EmanRafique)
 
-⚡ Fun fact:
-> I survive entirely on coffee, deadlines, and cool tech 😎
-
----
 
 ## 📂 Projects
 
