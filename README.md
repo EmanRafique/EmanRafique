@@ -1,36 +1,39 @@
 <h1 align="center">Hi 👋, I'm Eman Rafique</h1>
-<h3 align="center">BSCS (AI) | React Native Dev | Python Explorer | Gen-Z Coder</h3>
+<h3 align="center">BSCS (AI) | React Native Dev | Python Explorer | Gen-Z Coder 💻⚡</h3>
 
 ---
 
-🔭 I’m currently working on:
-- Smart Trash Sorting System 🗑️♻️
-- Emotion Detection using Deep Learning 😄😢😠
-- Traffic Sign Recognition 🚦
+🔭 Currently Building:
+- Smart Trash Sorting System 🗑️♻️  
+- Emotion Detection using Deep Learning 😄😢😠  
+- Traffic Sign Recognition using CNNs 🚦  
 
-🌱 I’m learning:
-- React + Tailwind
-- OpenCV & YOLOv8
-- Assembly (just for COAL 😅)
+🌱 Actively Learning:
+- OpenCV & YOLOv8 for Computer Vision 👁️  
+- Sharpening my ML/NLP skills 🧠💬  
 
-📫 How to reach me:
-- Gmail: emanrafiq46@gmail.com
-- GitHub: [EmanRafique](https://github.com/EmanRafique)
+📫 Reach Me At:
+- 📧 Gmail: [emanrafiq46@gmail.com](mailto:emanrafiq46@gmail.com)  
+- 💻 GitHub: [EmanRafique](https://github.com/EmanRafique)
 
+---
 
-## 📂 Projects
+## 📂 Featured Projects
 
-Here are some 🔥 repos you can check out:
+Some cool stuff I’ve built 👇
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Emotion_Detection](https://github.com/EmanRafique/Emotion_Detection) | Detects 7 emotions using Deep Learning | Python, OpenCV |
-| [Chess-UI-PDC](https://github.com/EmanRafique/Chess-UI-PDC) | 2D Chess game for PDC using C# | C# |
-| [Restaurant_Billing_System](https://github.com/EmanRafique/Restaurant_Billing_System) | Console-based billing in Assembly for COAL | Assembly |
-| [Important_Paragraph_Detection](https://github.com/EmanRafique/Important_Paragraph_Detection) | NLP project to extract key paras | Python, NLP |
-| [Traffic_Sign_Recognition](https://github.com/EmanRafique/Traffic_Sign_Recognition) | Detects traffic signs using CNN | Python, DL |
-| [Khaadi_Store](https://github.com/EmanRafique/Khaadi_Store) | Console-based clothing store w/ billing | Java (console) |
+| [Emotion Detection](https://github.com/EmanRafique/Emotion_Detection) | Detects 7 facial emotions using deep learning | Python, OpenCV |
+| [Chess UI (PDC)](https://github.com/EmanRafique/Chess-UI-PDC) | A 3D chess game UI built for PDC course | C# |
+| [Restaurant Billing System](https://github.com/EmanRafique/Restaurant_Billing_System) | Console-based billing system | Assembly |
+| [Important Paragraph Detection](https://github.com/EmanRafique/Important-Paragraph-Detection-NLP-) | Detects key paragraphs using NLP | Python, NLP |
+| [Traffic Sign Recognition](https://github.com/EmanRafique/Traffic_Sign_Recognition-Python-) | Recognizes road signs using CNN | Python, DL |
+| [Khaadi Clothing Store](https://github.com/EmanRafique/Khaadi_Clothing_Store_ConsoleApp-Java-) | Clothing store app w/ categories & billing | Java (Console) |
+| [Hate Speech Detection](https://github.com/EmanRafique/Hate_Speech_and_Offensive_Language_Detection) | Detects hate/offensive language in text | Python, NLP |
+| [Trash Separator (CV Project)](https://github.com/EmanRafique/A_Computer_Vision_Based_Trash_Separating_Conveyor_Belt) | Vision-based conveyor belt trash sorter | Python, OpenCV, DL |
 
 ---
 
-💖 Star my repos if you like them & connect with me!
+⭐ If you like my work, star the repos and drop a follow.  
+Let’s build cool things together 💡🚀
